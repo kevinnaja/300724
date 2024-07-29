@@ -1,0 +1,76 @@
+.container{
+    background-color:  rgb(99, 57, 214);
+    width:  750px;
+    height: 750px;
+    
+    
+}
+.header{
+  background-color: rgb(226, 13, 173);
+  height: 100px;
+
+}
+.b1{
+  display: inline-block;
+  background-color: rgb(99, 57, 214);
+  width:  170px;
+  height: 650px;
+  text-align: center;
+  }
+.maincontent{
+  display: inline-block;
+  background-color: rgb(146, 248, 13);
+  width: 576px;
+  height: 50px;
+  position: absolute;
+  
+     
+}
+.banncr{
+  display: inline-block;
+  background-color: rgb(248, 138, 13);
+  width: 576px;
+  height: 150px;
+  position: absolute;
+  top: 150px;
+}
+.news{
+ background-color: rgb(8, 155, 111);
+ display: inline-block;
+ width: 300px;
+ height: 458px;
+ position: absolute;
+ top: 300px;
+
+}
+.to-dolist{
+  background-color: rgb(13, 214, 30);
+  display: inline-block;
+  width: 296px;
+  height: 459px;
+  position: relative;
+  top: 83px;
+  left: 280px; 
+}
+.footer{
+  background-color: rgb(173, 59, 14);
+  height: 100px;
+}
+.m1{
+  background-color: rgb(234, 238, 8);
+  width: 150px;
+  height: 30px;
+  margin: 10px;
+}
+.m2{
+  background-color: rgb(234, 238, 8);
+  width: 150px;
+  height: 30px;
+  margin: 10px;   
+}
+.m3{
+  background-color:  rgb(234, 238, 8);
+  width: 150px;
+  height: 30px;
+  margin: 10px;
+}
